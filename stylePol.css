@@ -1,0 +1,84 @@
+
+body {
+	background-attachment: fixed;
+	background-image: url("blubg.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+
+p{
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+.header{
+	text-align: center;
+	font-size: 60px;
+	color: white;
+}
+
+#title{
+	text-align: center;
+	font-size: 60px;
+
+}
+
+.links{
+	
+	color: navajowhite;
+}
+
+#Option1{
+	text-align: left;
+	margin-right: 70px;
+	display: inline-block;
+	text-decoration: underline;
+}
+
+#Option2{
+	text-align: center;
+	display: inline-block;
+	text-decoration: underline;
+	font-size: 100px;
+	color: white;
+}
+
+#Option3{
+	text-align: right;
+	margin-left: 70px;
+	display: inline-block;
+	text-decoration: underline;
+}
+
+#imagemap{
+	margin-top: 200px;
+	margin-left: 380px;
+	margin-right: auto;
+	width: 50%;
+}
+
+#bodytext{
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	background-color: black;
+	margin-top: 100px;
+}
+
+#listtext{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+a:link{
+	color: navajowhite;
+	font-size: 70px;
+}
+
+a:visited{
+	color: floralwhite;
+	font-size: 70px;
+}
